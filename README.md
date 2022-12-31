@@ -1,3 +1,5 @@
-# react-hooks-toast
+# Create Tast with React Hooks
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-1efwzh)
+Full Tutorial: [https://dev.to/nabillatrisnani/create-toast-component-with-react-hooks-28aa](https://dev.to/nabillatrisnani/create-toast-component-with-react-hooks-28aa)
+
+Demo: [https://stackblitz.com/edit/react-1efwzh](https://stackblitz.com/edit/react-1efwzh)
